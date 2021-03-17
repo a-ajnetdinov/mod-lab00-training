@@ -1,5 +1,4 @@
-#include fun.h
-#include fun.cpp
+#include "fun.h"
 
 int main()
 {
